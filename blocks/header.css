@@ -96,3 +96,50 @@
     height: 480px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .header {
+  }
+
+  .header__logo-image {
+    width: 188px;
+    height: 52px;
+  }
+
+  .header-lead {
+    width: 288px;
+    height: auto;
+    padding-bottom: 50px;
+  }
+
+  .header__title {
+    width: 228px;
+    height: 88px;
+    font-family: Inter;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 44px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-top: 50px;
+  }
+
+  .header__subtitle {
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 16px;
+    leading-trim: NONE;
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 288px;
+    padding: 20px 0 10px;
+  }
+
+  .header__lead-image {
+    margin: 0;
+    padding: 0;
+    width: 320px;
+    height: 200px;
+  }
+}
