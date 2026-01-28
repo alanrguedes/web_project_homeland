@@ -1,4 +1,4 @@
-.Intro {
+.intro {
   width: 830px;
   height: 482px;
   display: flex;
@@ -7,7 +7,7 @@
   margin: 0 auto;
 }
 
-.Intro__title {
+.intro__title {
   font-family: Inter, sans-serif;
   font-weight: 900;
   font-size: 54px;
@@ -17,7 +17,7 @@
   padding-bottom: 60px;
 }
 
-.Intro__subtitle {
+.intro__subtitle {
   font-family: Inter;
   font-weight: 400;
   font-size: 24px;
@@ -26,7 +26,7 @@
   margin: 0;
 }
 
-.Intro__author {
+.intro__author {
   margin: 0;
   display: flex;
   padding: 16px 0;
@@ -38,7 +38,7 @@
   padding-bottom: 40px;
 }
 
-.Intro__text {
+.intro__text {
   font-family: Inter;
   font-weight: 400;
   font-size: 16px;
@@ -49,12 +49,12 @@
 }
 
 @media screen and (max-width: 1024px) {
-  .Intro {
+  .intro {
     width: 720px;
     height: 490px;
     margin: auto;
   }
-  .Intro__title {
+  .intro__title {
     font-family: Inter;
     font-weight: 900;
     font-size: 45px;
@@ -63,7 +63,7 @@
     width: 708px;
   }
 
-  .Intro__subtitle {
+  .intro__subtitle {
     font-family: Inter;
     font-weight: 400;
     font-size: 24px;
@@ -74,12 +74,12 @@
 }
 
 @media screen and (max-width: 768px) {
-  .Intro {
+  .intro {
     width: 288px;
     height: 878px;
     margin: auto;
   }
-  .Intro__title {
+  .intro__title {
     font-family: Inter;
     font-weight: 900;
     font-size: 32px;
@@ -89,7 +89,7 @@
     height: 140px;
   }
 
-  .Intro__subtitle {
+  .intro__subtitle {
     font-family: Inter;
     font-weight: 400;
     font-size: 24px;
