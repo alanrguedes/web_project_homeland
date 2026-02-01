@@ -34,7 +34,7 @@
   grid-area: website;
 }
 
-.conteiner {
+.place_conteiner {
   display: grid;
   grid-template-areas:
     "image description"
@@ -165,7 +165,7 @@
     padding-left: 28px;
   }
 
-  .conteiner {
+  .place_conteiner {
     display: grid;
     grid-template-columns: 340px 1fr;
     grid-template-areas:
@@ -298,7 +298,7 @@
     grid-area: website;
   }
 
-  .conteiner {
+  .placeconteiner {
     display: grid;
     grid-template-columns: 320px;
     grid-template-areas:
