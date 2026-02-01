@@ -118,7 +118,7 @@
   );
 }
 
-.place__frame_text {
+.place__frame-text {
   font-family: Inter;
   font-weight: 600;
   font-size: 18px;
@@ -248,7 +248,7 @@
     );
   }
 
-  .place__frame_text {
+  .place__frame-text {
     font-family: Inter;
     font-weight: 600;
     font-size: 18px;
@@ -380,7 +380,7 @@
     );
   }
 
-  .place__frame_text {
+  .place__frame-text {
     font-family: Inter;
     font-weight: 600;
     font-size: 14px;
